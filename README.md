@@ -5,12 +5,16 @@
 
 ![alt text](https://www.performanse.com/wp-content/uploads/2015/07/APPRENANCE.png "Apprendre en s'amusant")
 
+***
+
 ## Git c'est vraiment génial
 
 > Pour tout savoir si Git
 [Clique-ici](https://git-scm.com)
 
-Le niveau de Coolatitude sur Git
+---
+
+#### Le niveau de Coolatitude sur Git
 
 | Niveau        | Résultat                                     |
 | ------------- |:--------------------------------------------:|
