@@ -3,9 +3,9 @@
 
 # Apprendre Git en s'amusant
 
-<center>
-<img src="https://www.performanse.com/wp-content/uploads/2015/07/APPRENANCE.png" alt="Apprendre en s'amusant">
-</center>
+<div style="text-align:center;">
+    <img src="https://www.performanse.com/wp-content/uploads/2015/07/APPRENANCE.png" alt="Apprendre en s'amusant">
+</div>
 
 ***
 
