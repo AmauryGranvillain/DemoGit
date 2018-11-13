@@ -3,7 +3,7 @@
 
 # Apprendre Git en s'amusant
 
-<div style="text-align:center;">
+<div style="display:flex;justify-content:center;align-items:center;">
     <img src="https://www.performanse.com/wp-content/uploads/2015/07/APPRENANCE.png" alt="Apprendre en s'amusant">
 </div>
 
@@ -19,7 +19,7 @@
 #### Le niveau de Coolatitude sur Git
 
 | Niveau        | Résultat                                     |
-| ------------- |:--------------------------------------------:|
+|:-------------:|:--------------------------------------------:|
 | 1             | Trop zen rien te stresse                     |
 | 2             | Tu tiques sur certaines choses mais ça passe |
 | 3             | T'es un nerveux un rien t'ébranle            |
