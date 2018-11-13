@@ -22,7 +22,9 @@
 | 2             | Tu tiques sur certaines choses mais ça passe |
 | 3             | T'es un nerveux un rien t'ébranle            |
 
-Méthode relaxation sur Git
+---
+
+#### Méthode relaxation sur Git
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=um1Q6odUY7U
 " target="_blank"><img src="http://img.youtube.com/vi/um1Q6odUY7U/0.jpg" 
