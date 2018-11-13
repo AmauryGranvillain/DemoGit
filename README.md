@@ -41,4 +41,11 @@ alt="Relax Git" width="240" height="180" border="10" /></a>
 | `Gestion de projet`             | `Connaissances des Design Patterns`        |
 | `Rigueur et méthode`            | `Rédaction des spécifications`              |
 
+# Fonction fetch
+
+> git fetch origin
+
+	Cette fonction récupère les modifications depuis le serveur
+
+---
 
