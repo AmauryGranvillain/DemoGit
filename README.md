@@ -1,5 +1,5 @@
 # DemoGit
-![alt text](https://www.performanse.com/wp-content/uploads/2015/07/APPRENANCE.png "Logo Git")
+![alt text](https://www.supinfo.com/articles/resources/219471/6706/0.jpg "Logo Git")
 
 # Apprendre Git en s'amusant
 
