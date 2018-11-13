@@ -32,3 +32,13 @@
 " target="_blank"><img src="http://img.youtube.com/vi/um1Q6odUY7U/0.jpg" 
 alt="Relax Git" width="240" height="180" border="10" /></a>
 
+---
+
+# Les compétences d'un bon dév
+
+| **Compétences populaires**        | **Compétences en tension**                    |
+|-------------------------------|-------------------------------------------|
+| `Gestion de projet`             | `Connaissances des Design Patterns`        |
+| `Rigueur et méthode`            | `Rédaction des spécifications`              |
+
+
